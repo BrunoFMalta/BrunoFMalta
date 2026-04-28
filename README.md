@@ -36,6 +36,8 @@
 
 ---
 
-## 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/brunofmalta)
-- [GitHub](https://github.com/BrunoFMalta)
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/brunofmalta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrunoFMalta)
+
