@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Bruno Felipe Malta
+# 👋 Prazer, me chamo Bruno Felipe Malta
 
 🎓 **Estudante de Ciência da Computação** na FADERGS  
 💻 Foco em **Java**, **programação orientada a objetos**, **estruturas de dados** e **algoritmos**  
