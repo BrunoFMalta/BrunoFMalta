@@ -11,7 +11,7 @@
 
 # 👋 Prazer, me chamo Bruno Felipe Malta
 
-🎓 **Estudante de Ciência da Computação** na FADERGS  
+🎓 **Estudante de Ciência da Computação** na Unilasalle  
 💻 Foco em **Java**, **programação orientada a objetos**, **estruturas de dados** e **algoritmos**  
 🚀 Em evolução para **desenvolvimento backend** e frameworks modernos como **Spring Boot**  
 📂 Aqui compartilho minha jornada e projetos de aprendizado
